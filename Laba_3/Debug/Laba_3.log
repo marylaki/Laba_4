@@ -1,0 +1,28 @@
+﻿Сборка начата 13.10.2016 3:36:38.
+     1>Проект "E:\УЧЁБА\2 Курс\ООП\My Labs\Laba_4\Laba_3\Laba_3\Laba_3.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Laba_3.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Laba_3.cpp dop_class1.cpp
+         Laba_3.cpp
+     1>e:\учёба\2 курс\ооп\my labs\laba_4\laba_3\laba_3\laba_3.cpp(69): warning C4101: p: неиспользованная локальная переменная
+     1>e:\учёба\2 курс\ооп\my labs\laba_4\laba_3\laba_3\laba_3.cpp(81): warning C4101: bc: неиспользованная локальная переменная
+     1>e:\учёба\2 курс\ооп\my labs\laba_4\laba_3\laba_3\laba_3.cpp(82): warning C4101: kc: неиспользованная локальная переменная
+     1>e:\учёба\2 курс\ооп\my labs\laba_4\laba_3\laba_3\laba_3.cpp(70): warning C4101: k: неиспользованная локальная переменная
+     1>e:\учёба\2 курс\ооп\my labs\laba_4\laba_3\laba_3\laba_3.cpp(68): warning C4101: t: неиспользованная локальная переменная
+         Создание кода...
+         Компиляция...
+         dop_class1.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\УЧЁБА\2 Курс\ООП\My Labs\Laba_4\Laba_3\Debug\Laba_3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\УЧЁБА\2 Курс\ООП\My Labs\Laba_4\Laba_3\Debug\Laba_3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\УЧЁБА\2 Курс\ООП\My Labs\Laba_4\Laba_3\Debug\Laba_3.lib" /MACHINE:X86 Debug\chocolate_konf.obj
+         Debug\dop_class1.obj
+         Debug\konditer.obj
+         Debug\konfeta.obj
+         Debug\Laba_3.obj
+         Debug\pechenie.obj
+         Debug\stdafx.obj
+         Laba_3.vcxproj -> E:\УЧЁБА\2 Курс\ООП\My Labs\Laba_4\Laba_3\Debug\Laba_3.exe
+     1>Сборка проекта "E:\УЧЁБА\2 Курс\ООП\My Labs\Laba_4\Laba_3\Laba_3\Laba_3.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.63
