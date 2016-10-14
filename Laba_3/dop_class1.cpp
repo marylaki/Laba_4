@@ -29,10 +29,8 @@ void tort::show()
 	cout << endl;
 }
 
-tort::tort(int c, string tip, int diam, string nach)
+tort::tort(int c, string tip, int diam, string nach) :Pechenie(c,tip)
 {
-	this->setCost(c);
-	this->setTip(tip);
 	this->setdiam(diam);
 	this->setnachinka(nach);
 }

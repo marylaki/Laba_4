@@ -82,9 +82,8 @@ void Konfeta::toConsole()
 	std::cout << typeid(this).name();
 	this->show();
 }
-Konfeta::Konfeta(int c, string t, int m)
+Konfeta::Konfeta(int c, string t, int m) :Konditer_Izdel(c)
 {
-	this->setCost(c);
 	this->setForma(t);
 	this->set_Karamel(m);
 }

@@ -38,10 +38,7 @@ void Chocolate_konfeta::toConsole()
 	this->show();
 }
 
-Chocolate_konfeta::Chocolate_konfeta(int c, string form, int m, string vid)
+Chocolate_konfeta::Chocolate_konfeta(int c, string form, int m, string vid) :Konfeta(c,form,m)
 {
-	this->setCost(c);
-	this->setForma(form);
-	this->set_Karamel(m);
 	this->setVid(vid);
 }
